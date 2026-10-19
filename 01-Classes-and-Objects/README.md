@@ -4,16 +4,27 @@ Overview
 This folder contains 10 practice tasks for Chapter 1 of Object-Oriented Programming (OOP).
 
 Tasks
+
 Task 1.1: Point
+
 Task 1.2: Rectangle
+
 Task 1.3: Counter
+
 Task 1.4: Book
+
 Task 1.5: Student
+
 Task 1.6: LightSwitch
+
 Task 1.7: Stack
+
 Task 1.8: Product
+
 Task 1.9: Car
+
 Task 1.10: Library
+
 Requirements
 
 Each task includes:
